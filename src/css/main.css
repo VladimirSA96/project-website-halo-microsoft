@@ -112,7 +112,7 @@ nav .mobile .header #bmenu {
   border: none;
   background-color: transparent;
   cursor: pointer;
-
+  padding: 10px;
   color: white;
 }
 
@@ -292,7 +292,7 @@ h3 {
 }
 
 #videos #slider #current {
-  width: 1280px;
+  width: 100%;
   margin: 50px auto;
   border: solid 1px #00c3ff;
 }
