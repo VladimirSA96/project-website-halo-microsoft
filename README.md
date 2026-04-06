@@ -14,10 +14,9 @@
 
 <!-- Reemplaza con un screenshot real del proyecto -->
 ![Preview del proyecto](./src/img/desktop.png)
-
-![Preview del proyecto](./src/img/ipad.png)
-
-![Preview del proyecto](./src/img/iphone.png)
+<img src="./src/img/ipad.png" alt="Preview iPad" width="400">
+<br>
+<img src="./src/img/iphone.png" alt="Preview iPhone" width="200">
 
 ---
 
